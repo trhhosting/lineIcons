@@ -1,6 +1,6 @@
 name: lineIcons_scss
 description: Simple Line Icons
-version: 1.0.0
+version: 1.0.1
 environment:
   sdk: '>=2.0.0 <3.0.0'
 dev_dependencies:
